@@ -46,7 +46,6 @@ Currently working at **Regtify**, I specialize in **JavaScript, Vue.js, AngularJ
 ### 📈 **GitHub Stats**
 ![Auzah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=auzahm&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=auzahm&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=auzahm&theme=tokyonight)  
 
 ---
 
