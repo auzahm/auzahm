@@ -1,42 +1,59 @@
-# 👋 Hi, I'm Auzah Mansoor! 
+# 👋 Hi, I'm Auzah Mansoor!  
 
-### 💻 Web Developer | Software Engineer
+### 💻 Web Developer | Software Engineer | Cloud Enthusiast  
 
-Welcome to my GitHub! I'm a passionate **Web Developer** with expertise in **AngularJS, VueJS, NodeJS, AWS, and Sequelize**. I love building efficient and scalable web applications while exploring new technologies.  
+I’m a passionate **Web Developer** with experience in designing, building, and maintaining scalable applications.  
+Currently working at **Regtify**, I specialize in **JavaScript, Vue.js, AngularJS, Node.js, AWS, and Sequelize**, helping deliver efficient backend systems and dynamic frontend experiences.  
 
-### 🔥 **What I Do**
-- 🌍 Currently working in **Regtify** as a **Web Developer**  
-- ⚡ Skilled in **JavaScript, Node.js, Vue.js, AngularJS, AWS (Lambda, Step Functions)**  
+⚡ My mission is to **build clean, reliable, and user-focused software** while continuously learning and exploring new technologies.  
 
-### 📌 **Tech Stack**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+---
+
+### 🚀 **What I Do**
+- 🌍 Web Developer @ **Regtify**  
+- 🛠️ Build **backend systems** with Node.js & Sequelize (MySQL)  
+- 🎨 Develop **front-end applications** with Vue.js & AngularJS  
+- ☁️ Design **cloud-based solutions** using AWS Lambda & Step Functions  
+- 🤝 Collaborate in **team-based projects**, delivering features from idea to deployment  
+
+---
+
+### 📚 **Tech Stack**
+
+**Frontend**  
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)  
 ![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat&logo=angular&logoColor=white)  
-![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)   
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)  
+
+**Cloud & Tools**  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 
-### 📫 **Let's Connect**
-💼 [LinkedIn]([https://linkedin.com/in/hulululu](https://www.linkedin.com/in/auzah-mansoor-a68841187/))  
+---
+
+### 🌟 **Highlights**
+- 💼 Contributed to **enterprise-level projects** at Regtify  
+- 🔧 Experienced in **manual testing** when no QA team was available  
+- 🎓 Recently started a **BSc Computer Science** at the **University of London**  
+- ⚡ Enthusiastic about **AWS certifications** (Cloud Practitioner ✔️, Developer Associate in progress)  
+
+---
+
+### 📈 **GitHub Stats**
+![Auzah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=auzahm&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=auzahm&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=auzahm&theme=tokyonight)  
+
+---
+
+### 📫 **Let’s Connect**
+💼 [LinkedIn](https://www.linkedin.com/in/auzah-mansoor-a68841187/)  
 📧 Email: auzahmansoor33@gmail.com  
 
 ---
 
-⭐ **Feel free to connect and collaborate!** 🚀  
-
-
-<!--
-**auzahm/auzahm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ _Always open to collaborations, learning opportunities, and building something impactful!_ 🚀  
