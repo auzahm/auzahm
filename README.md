@@ -1,5 +1,7 @@
 <p align="center"><b>👋 Hi, I'm Auzah Mansoor!</b></p> 
 
+#
+
 ### 💻 Web Developer | Software Engineer | Cloud Enthusiast  
 
 I’m a passionate **Web Developer** with experience in designing, building, and maintaining scalable applications.  
