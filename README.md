@@ -1,4 +1,4 @@
-<p align="center"><b>👋 Hi, I'm Auzah Mansoor!</b></p> 
+<h1 align="center"><b>👋 Hi, I'm Auzah Mansoor!</b></h1> 
 
 #
 
