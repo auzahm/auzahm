@@ -1,4 +1,4 @@
- # 👋 Hi, I'm Auzah Mansoor!  
+<p align="center"><b>Auzah</b></p> # 👋 Hi, I'm Auzah Mansoor!  
 
 ### 💻 Web Developer | Software Engineer | Cloud Enthusiast  
 
